@@ -1,0 +1,2 @@
+module ch.ifage.hopital {
+}
